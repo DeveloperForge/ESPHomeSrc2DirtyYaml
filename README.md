@@ -14,6 +14,7 @@ small script to recover lost ESPHome node yaml config files when lost if the .se
     
   - this file will require some modifacations like removing the extra sensor:/binary_sensor: etc
     
-  - entries of aforementioned groups will have there platform concatenated to the section name and must be removed
+  - entries of aforementioned groups will have their platform concatenated to the section name and must be removed
     
-  - if there are multiple entries of aforementioned groups you must remove the superfluous section entries and group them as you normaly would in the yaml with '- ' and properly indenting thier sub entries to match 
+  - if there are multiple entries of aforementioned groups you must remove the superfluous section entries and group them as you normaly would in the yaml with '- ' and properly indenting their sub entries to match 
+
