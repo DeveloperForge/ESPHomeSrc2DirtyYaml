@@ -1,5 +1,5 @@
 # ESPHomeSrc2DirtyYaml
-small script to recover lost ESPHome node yaml config files when lost if the .sephome/build folder is still intact
+small script to recover lost ESPHome node yaml config files when lost assuming the .esphome/build folder is still intact
 
 - Instalation
   - copy to .esphome directoy
