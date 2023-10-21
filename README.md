@@ -4,7 +4,7 @@ small script to recover lost ESPHome node yaml config files when lost if the .se
 - Instalation
   - copy to .esphome directoy
     
-  - chmod executable
+  - chmod a+x ./recover.sh
  
     
 - Usage
